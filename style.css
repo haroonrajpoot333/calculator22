@@ -1,0 +1,68 @@
+
+ *{
+    color:grey;
+    padding: 0%;
+    margin: 0%;
+   
+  
+
+}
+    .button{
+        width: 50px;
+        height: 50px;
+        font-size: 25px;
+        margin: 2px;
+        cursor: pointer;
+        background-color: slategray;
+        color:snow ;
+    }
+
+    .textview{
+        width: 205px;
+        margin: 5px;
+        font-size: 25px;
+        padding: 5px;
+        border: none;
+        color: #716e6e;
+    }   
+
+
+   .gg {
+    width: 106px;}
+
+    .main{
+        position: absolute;
+        top: 25%;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    .bgg{
+
+       
+
+        background-color: steelblue;
+        
+        
+    }
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
